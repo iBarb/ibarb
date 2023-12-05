@@ -4,8 +4,6 @@
 
 🌱 Experienced with JavaScript, React, Node.js and Python
 
-👉 React, Next.js, Node.js, Python, JavaScript, HTML, CSS
-
 👯 I’m looking to collaborate on open source projects
 
 🤔 I'm open for job opportunities
