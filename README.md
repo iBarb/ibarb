@@ -28,3 +28,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibarb&show_icons=true&locale=en&layout=compact" alt="ibarb" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
