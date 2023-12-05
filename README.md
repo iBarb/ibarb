@@ -1,31 +1,44 @@
 <h1 align="center">Hi 👋, I'm Bruno Barbaran</h1>
-<h3 align="center">A software developer from Perú. I have also built interesting things with JS and Python.</h3>
 
-- 🌱 I’m currently learning **NextJS, Swift, React Native**
+<h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 👨‍💻 All of my projects are available at [https://bruno-barbaran.web.app/](https://bruno-barbaran.web.app/)
+🌱 Experienced with JavaScript, React, Node.js and Python
 
-- 💬 Ask me about **React, JavaScript or general web development**
+👉 React, Next.js, Node.js, Python, JavaScript, HTML, CSS
 
-- 📫 How to reach me **brunobarbaran@hotmail.com**
+👯 I’m looking to collaborate on open source projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/barbaranbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barbaranbruno" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bruno-paolo-barbaran-quiroz-606478195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-paolo-barbaran-quiroz-606478195" height="30" width="40" /></a>
-</p>
+🤔 I'm open for job opportunities
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-</p>
+💬 Ask me about **React, JavaScript, Python or anything web dev related!**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBarb&layout=compact)
+📫 Reach me at **brunobarbaran@hotmail.com** or via [LinkedIn](https://www.linkedin.com/in/bruno-barbaran/)
 
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/twitter_logo_icon_186891.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Flask" width="26px" src="https://media.discordapp.net/attachments/909842814211334165/1181562003836387388/flask.png?ex=6581825e&is=656f0d5e&hm=935730d52cfe57361da82f4002f018702ed412a5b4719b4839187d3a0ad881e6&=&format=webp&quality=lossless" />
+<img align="left" alt="SQL" width="26px" src="https://estuary.dev/static/d02a8d0785a4d9eeddead9dcc720f436/ce562/569dae_Azure_Sql_Server_Logo_Transparent_1_13b0b548d9.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upcdn.io/FW25bBB/image/content/app_logos/e71493b6-3fb2-4532-b850-bc45b937142c.webp?f=webp&w=1920&q=85&fit=shrink-cover" />
+
+<br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBarb&layout=compact&theme=radical)
+
+[twitter]: https://twitter.com/barbaranbruno
+[linkedin]: https://www.linkedin.com/in/bruno-barbaran/
