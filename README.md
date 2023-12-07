@@ -10,7 +10,7 @@
 
 💬 Ask me about **React, JavaScript, Python or anything web dev related!**
 
-📫 Reach me at **brunobarbaran@hotmail.com** or via [LinkedIn](https://www.linkedin.com/in/bruno-barbaran/)
+📫 Reach me at **brunobarbaran@hotmail.com** or via [LinkedIn](https://www.linkedin.com/in/bruno-paolo-barbaran-quiroz-606478195/)
 
 ### Connect with me:
 
@@ -39,4 +39,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBarb&layout=compact&theme=radical)
 
 [twitter]: https://twitter.com/barbaranbruno
-[linkedin]: https://www.linkedin.com/in/bruno-barbaran/
+[linkedin]: https://www.linkedin.com/in/bruno-paolo-barbaran-quiroz-606478195/
