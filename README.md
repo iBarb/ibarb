@@ -28,7 +28,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="26px" src="https://media.discordapp.net/attachments/909842814211334165/1181562003836387388/flask.png?ex=6581825e&is=656f0d5e&hm=935730d52cfe57361da82f4002f018702ed412a5b4719b4839187d3a0ad881e6&=&format=webp&quality=lossless" />
+<img align="left" alt="Flask" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" />
 <img align="left" alt="SQL" width="26px" src="https://estuary.dev/static/d02a8d0785a4d9eeddead9dcc720f436/ce562/569dae_Azure_Sql_Server_Logo_Transparent_1_13b0b548d9.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upcdn.io/FW25bBB/image/content/app_logos/e71493b6-3fb2-4532-b850-bc45b937142c.webp?f=webp&w=1920&q=85&fit=shrink-cover" />
