@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Barbaran</h1>
 
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate web developer from Perú</h3>
 
 🌱 Experienced with JavaScript, React, Node.js and Python
 
